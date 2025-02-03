@@ -151,3 +151,10 @@ InodeX is a custom command-based multi-user virtual file system developed in C. 
 - `clear`: Clear the console screen.
 - `exit`: Terminate the file system and close the application.
 - `man ls`: Display the manual for the `ls` command.
+
+## Screenshots
+
+![Dashboard](./InodeX_Help.png)
+
+![Dashboard](./InodeX_Sreenshot.png)
+
